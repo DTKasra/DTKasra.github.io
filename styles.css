@@ -1,0 +1,96 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+body{
+	font-family: sans-serif;
+}
+
+h1{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.maintitle {
+    text-align: center;
+	font-size: 65px;
+	margin-top: 30px;
+}
+
+.header {
+	padding: 60px;
+    text-align: center;
+	background-color: #333333;
+	background: url('webextra/facepalm.jpg');
+	color: green;
+	font-size: 30px;
+}
+.button {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold; 
+  background-color: #333333;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display:inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+header {
+	background-color: #333333;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.button:hover {
+	background-color: green;
+}
+
+ul {
+	list-style-type: none;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+li {
+	display:inline;
+}
+
+.button-ho {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold; 
+  background-color: #333333;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display:inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+.crap {
+	background-color: #F4F4F4;
+	padding: 15px 32px;
+}
+
+footer {
+	background-color: #333333;
+	padding: 15px 32px;
+	
+}
+
+.foot {
+	 display:inline-block;
+	 text-align:center;
+	 color: white;
+	 vertical-align:middle;
+	}
+
+.section {
+	Margin-top: 70px;
+	background-color: white;
+	padding: 10px 10px 10px 10px;
+	}
