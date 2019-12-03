@@ -2,6 +2,7 @@
 <rss version="2.0">
 <channel>
 <title>RSS Site</title>
+<link>dtkasra.github.io</link>
 <description>can you make a site using only RSS?</description>
 <item>
 <title>test</title>
