@@ -1,0 +1,11 @@
+<? xml version="1.0">
+<rss version="2.0">
+<channel>
+<title>RSS Site</title>
+<description>can you make a site using only RSS?</description>
+<item>
+<title>test</title>
+<desctiption>hi</description>
+</item>
+</channel>
+</rss>
