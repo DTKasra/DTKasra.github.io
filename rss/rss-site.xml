@@ -5,8 +5,8 @@
 <description>can you make a site using only RSS?</description>
 <item>
 <title>test</title>
+ <link>dtkasra.github.io</link>
 <description>hi</description>
-<link>dtkasra.github.io</link>
 </item>
 </channel>
 </rss>
